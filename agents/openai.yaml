@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书内容运营助手"
+  short_description: "小红书笔记诊断、关键词规划、爆文拆解与生成，附质量评分报告"
+  default_prompt: "使用 $xiaohongshu-content 帮我策划或诊断小红书笔记，先判断所需模式，再按对应流程完成。"
