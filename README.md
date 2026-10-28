@@ -23,3 +23,7 @@ Libra 的小红书内容运营 Skill，帮助从用户需求、心理预期和�
 ## 说明
 
 CQS 使用本项目 `references/scoring.md` 中注明的第三方自测模型，不是小红书官方指标或流量保证。涉及实时热点、平台规则或具体服务事实时，按 Skill 中的来源与证据要求核验。
+
+## 特别感谢
+
+感谢 [Linux.do](https://linux.do/) 对 Libra skill 项目的特别支持！
